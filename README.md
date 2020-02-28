@@ -4,7 +4,7 @@
 
 Install using deno install
 ```sh
-deno install deno-cli https://raw.githubusercontent.com/.../mod.ts 
+deno install deno-cli https://raw.githubusercontent.com/herrmannplatz/deno-cli-playground/master/mod.ts 
 ```
 
 By default scripts are installed at $HOME/.deno/bin or $USERPROFILE/.deno/bin and one of that directories must be added to the path manually.
