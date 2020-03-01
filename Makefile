@@ -5,7 +5,7 @@ lock:
 	deno --lock=lock.json --lock-write mod.ts
 
 install:
-	deno install -f deno-cli mod.ts
+	deno install deno-cli mod.ts --allow-read
 
 test: 
 	deno test 

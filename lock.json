@@ -1,3 +1,4 @@
 {
-  "https://deno.land/std/fmt/colors.ts": "8bf002ba6e86f323aea0d5e066c98f2ff3c7908563db9248c845d4723eaaca98"
+  "https://deno.land/std/fmt/colors.ts": "8bf002ba6e86f323aea0d5e066c98f2ff3c7908563db9248c845d4723eaaca98",
+  "https://deno.land/std/flags/mod.ts": "078038f9ed2727fb67987b7b170457b54e27858df38e3769b31f1cd14894bd26"
 }
